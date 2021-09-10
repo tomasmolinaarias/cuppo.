@@ -1,14 +1,10 @@
 body {
     font-family: 'Roboto', sans-serif;
     color: #707070;
+    font-size: 14px;
 }
-
-h5 {
-    font-size: medium;
-}
-p {
-    font-size: medium;
-    font-weight: 100;
+h5{
+    font-size: 16px;
 }
 nav {
     background-color: #28A745;
@@ -40,6 +36,6 @@ nav {
 
 }
 .footertext {
-    display: inline-block;
+   font-size:10px;
 }
 
