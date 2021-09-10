@@ -2,30 +2,44 @@ body {
     font-family: 'Roboto', sans-serif;
     color: #707070;
 }
+
+h5 {
+    font-size: medium;
+}
+p {
+    font-size: medium;
+    font-weight: 100;
+}
 nav {
     background-color: #28A745;
 }
+
 .logo01 {
     width: 120px;
 }
-/*columnas*/
-.direccion {
-    text-align: center;
 
-}
+/*columnas*/
+
 .precio {
   color: #28A745;
 }
+
 /*formulario*/
+
 .formulario {
     background-color:#28A745;
     color: white;
 }
+
 /*footer*/
+
 .logo2{
     width: 170px;
+    vertical-align: middle;
+   
+
 }
-
-
-
+.footertext {
+    display: inline-block;
+}
 
